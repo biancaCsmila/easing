@@ -40,25 +40,38 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-## Requisitos
+## Requisitos do Projeto
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+Os requisitos do projeto correspondem a parte de analise e a interação entre os usuários, sistema e suas funcionalidades. A seguir separamos os requisitos de funcionais e requisitos não funcionais. 
 
 ### Requisitos Funcionais
+
+A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade em que os mesmos devem ser entregues.
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O site deve apresentar na página inicial as informações com objetivo as pessoas autônomas, a procura sobre processos de como ingressarem e auxiliar em negócios de confeitaria, artesão entre outros. | ALTA | 
 |RF-002| O site deve apresentar, para cada ramo do negócio ou de atividade, uma imagem correspondente ao assunto apresentado (thumbnail)  | MÉDIA |
-
+|RF-003| O site deve permitir ao usuário visualizar toda informação com todos os detalhes da produção e confecção de bens artesanais e de confeitaria entre outros.  | MÉDIA |
+|RF-004| O site deve oferecer um menu adicional que permita ao usuário visualizar canais e links de empreendedorismo, de fornecedores de matérias primas das atividades de seu interesse. (sources).  | MÉDIA |
+|RF-005| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa.7,5  | MÉDIA |
+|RF-006| O site deve permitir visualizar as informações referente a inovações de novos projetos, inserido pelos usuários | MÉDIA |
+|RF-007| O site deve permitir o compartilhamento experiencias referente ao período sazonais e de alta demanda.  | MÉDIA |
+|RF-008| O site deve permitir salvar o cadastro de pessoas interessadas em receber novidades sobre insumos, inovações e dicas.  | MÉDIA |
+|RF-009| O site deve permitir verificar as experiencias mais relevantes salvas como preferidas  | MÉDIA |
+|RF-010| O site deve permitir que usuários possam comentar e dar dicas  | MÉDIA |
+|RF-011| O site deve exibir os comentários registrados e serem exibidos.  | MÉDIA |
 
 ### Requisitos não Funcionais
 
+A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá atender.
+
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
+|RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku);  | MÉDIA | 
+|RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada |  BAIXA | 
+|RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade  | MÉDIA | 
+|RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  BAIXA | 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
