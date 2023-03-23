@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Júlia Roberta de Souza 
 * Maria Ester de Jesus Guimarães
-* Nome completo do aluno 3
+* Reinaldo Barbosa Lima
 * Nome completo do aluno 4
 
 ## Orientador
