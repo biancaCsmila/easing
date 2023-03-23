@@ -72,6 +72,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF-002| O site deverá ser responsivo permitindo a visualização em um celular de forma adequada |  BAIXA | 
 |RNF-003| O site deve ter bom nível de contraste entre os elementos da tela em conformidade  | MÉDIA | 
 |RNF-004| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) |  BAIXA | 
+
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
 - [Requisitos Funcionais
