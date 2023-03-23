@@ -1,10 +1,10 @@
 # PLANEJAMENTO E CONTROLE DE PRODUÇÃO
 
-`CURSO`
+Analise de Desenvovimento de Sistemas
 
-`DISCIPLINA`
+Projeto: Desenvolvimento de Aplicação Web Front-End 
 
-`SEMESTRE`
+1º/2023
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
