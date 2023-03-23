@@ -48,8 +48,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O site deve apresentar na página inicial as informações com objetivo as pessoas autônomas, a procura sobre processos de como ingressarem e auxiliar em negócios de confeitaria, artesão entre outros. | ALTA | 
+|RF-002| O site deve apresentar, para cada ramo do negócio ou de atividade, uma imagem correspondente ao assunto apresentado (thumbnail)  | MÉDIA |
 
 
 ### Requisitos não Funcionais
