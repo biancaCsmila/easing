@@ -8,9 +8,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Isabella Fernandez tem 41 anos, trabalha como recepcionista e também é autônoma. Em datas sazonais trabalha como confeiteira para produzir uma fonte de renda extra, pois o que ganha em seu emprego CLT não consegue suprir todas as suas necessidades.
+Tem pouco conhecimento em planilhas e por esse motivo vê dificuldade em organizar a sua rotina de produção.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Emanuella Alvez tem 17 anos, é estudante e em datas comemorativas faz doces artesanais para produzir uma fonte de renda, além disso, ela está buscando descobrir qual será a sua profissão e encontrou na confeitaria a possibilidade de trabalhar com o que gosta. Por não produzir com muita frequência, ela tem dificuldade em organizar a quantidade de matéria prima que deve ser feita.
 
 > **Links Úteis**:
 > - [Rock Content](https://rockcontent.com/blog/personas/)
