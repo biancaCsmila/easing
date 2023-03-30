@@ -94,9 +94,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|RE- 01| O projeto deverá ser entregue até o final do semestre letivo. Não podendo extrapolar a data de 25/06/2023. |
+|RE- 02| A aplicação deve se restringir às tecnologias básicas da Web no Frontend.                                  |
+|RE- 03| O trabalho deverá se manter dentro do tema escolhido                                                       |
+|RE- 04| O trabalho deverá ser autoral.                                                                             |
+|RE- 05| A equipe não poderá subcontratar o desenvolvimento do trabalho.                                            |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
