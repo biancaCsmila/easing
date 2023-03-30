@@ -92,7 +92,7 @@ todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 O projeto está restrito pelos itens apresentados na tabela a seguir.
 
-|ID| Restrição                                             |
+|ID|Descrição                                             |
 |--|-------------------------------------------------------|
 |RE- 01| O projeto deverá ser entregue até o final do semestre letivo. Não podendo extrapolar a data de 25/06/2023. |
 |RE- 02| A aplicação deve se restringir às tecnologias básicas da Web no Frontend.                                  |
