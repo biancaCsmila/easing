@@ -3,7 +3,7 @@
 Nos últimos anos houve um aumento considerável de trabalhadores autônomos. Pessoas que nunca tiveram um negócio próprio, passaram a ter que encarar essa realidade de forma inesperada e na maior parte dos casos, sem nenhuma ajuda ou preparo para lidar com os desafios do empreendedorismo. Isso se agrava ainda mais se esse empreendedor estiver inserido em um negócio que exija organização e planejamento de produção manual, por exemplo, confeiteiras, artesãs e outros.
 
 ## Problema
-Decorrente à falta de experiência, alguns desafios podem se tornar grandes problemas, um exemplo são as falhas na logística de produção. Isso acarreta, principalmente, desperdício de tempo e dinheiro, o que pode acabar em um fim precoce de um negócio que poderia ser próspero.  
+Decorrente à falta de experiência, alguns desafios podem se tornar grandes problemas. O problema que este trabalho visa resolver é a falha de logística de produção em épocas de grande demanda.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
@@ -12,7 +12,7 @@ Decorrente à falta de experiência, alguns desafios podem se tornar grandes pro
 
 ## Objetivos
 
-O objetivo principal desse projeto implementar uma aplicação que seja eficiente, de fácil uso e que permita que usuários mesmo sem experiência consiga usá-la.  
+O objetivo principal desse projeto implementar uma aplicação que auxilie o produtor no planejamento da produção em períodos sazonais de alta demanda.  
 Como objetivos específicos, podem se destacar:  
 · Orgazinar o quando de insumo deve ser produzido para fazer o produto final. 
 · Evitar excessos ou falta de insumos em períodos sazonais que há aumento de produção.
@@ -24,8 +24,8 @@ Como objetivos específicos, podem se destacar:
 ## Justificativa
 
 O número de trabalhadores autonômos aumentou no decorrer dos anos. Segundo o IBGE, o trimestre de fevereiro até abril do ano de 2022 bateu recorde de trabalhadores autonômos, passando de 25 milhões.
-Trabalhar por conta própria é uma alternativa para quem ficou desempregado e precisa de uma fonte de renda porém a falta de experiência, principalmente na logística do negócio, acarreta em desorganização e despesas desnecessárias que podem levar ao fim negócios que poderiam ser rentáveis.
-Datas especiais como Natal, Páscoa, Dia das Mães entre outros possuem um aumento no número de pedidos e consequentemente necessitam de maiores cuidados com relação a logística para não haver perda de insumos e evitar excessos de produção.
+Trabalhar por conta própria é uma alternativa para quem ficou desempregado durante a pandemia e precisa de uma fonte de renda porém a falta de experiência, principalmente na logística de produção, acarreta em desorganização e despesas desnecessárias que podem levar ao fim negócios que poderiam ser rentáveis.
+Datas especiais como Natal, Páscoa, Dia das Mães entre outros possuem um aumento no número de pedidos e consequentemente necessitam de maiores cuidados com relação a logística de produção para não haver perda de insumos e evitar excessos.
 
 
 > **Links Úteis**:
@@ -33,8 +33,7 @@ Datas especiais como Natal, Páscoa, Dia das Mães entre outros possuem um aumen
 
 ## Público-Alvo
 
-Embora qualquer pessoa possa se beneficiar do projeto ele é direcionado à pessoas que trabalham de forma autonôma e que possuem micro e pequenos negócios e que produzem em alta demanda em períodos sazonais e que necessitam de ajuda na logística para não ter despesas e perda de insumos.
-
+Embora qualquer pessoa possa se beneficiar do projeto ele é direcionado às pessoas que trabalham de forma autonôma e que possuem micro e pequenos negócios produzindo em alta demanda em períodos sazonais a necessitarem de ajuda no planejamento da logística de produção.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
