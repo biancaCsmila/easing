@@ -26,10 +26,19 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                     |
+|--------------------|----------------------------------------------------|-----------------------------------------------------------------------------------|
+Isabella Fernandez   | Visualizar a saída de produtos/favoritos           |Afim de saber o que é mais pedido, e aumentar o estoque dos materiais necessários |
+Emanuella Alves      | Saber com antecedência o quanto de cada ingrediente é usado em cada encomenda   | visando a redução do desperdício
+Isabella Fernandez   | Saber quando determinado insumo está chegando ao fim, antes de realmente acabar |Para evitar falta repentina de produtos e consequentemente o atraso e/ou a perda da encomenda |
+Emanuella Alves| Visualizar comentários de outros confeiteiros/empreendedores |Afim de compartilhar experiência na área e pegar dicas para crescer
+Isabella Fernandez | Mapear onde cada produto está guardado no estoque | para não perder tempo procurando por cada coisa necessária
+Emanuella Alves | Acessar o aplicativo por qualquer dispositivo | para resolver as questões pendentes de qualquer lugar e poder compartilhar com possíveis parceiros
+Emanuella Alves | Fácil acesso aos contatos de fornecedores e poder comparar preços entre eles |fazer orçamentos melhores e mais rápidos, afim de economizar
+Isabella Fernandez | Integração com serviços de entrega |ter mais opções para clientes que não podem retirar os produtos pessoalmente, em datas de maior demanda
+Emanuella Alves | Compartilhar produtos em redes sociais, como Instagram e Facebook | Aumentar meu círculo de vendas
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
