@@ -14,8 +14,9 @@ Decorrente à falta de experiência, alguns desafios podem se tornar grandes pro
 
 O objetivo principal desse projeto implementar uma aplicação que auxilie o produtor no planejamento da produção em períodos sazonais de alta demanda.  
 Como objetivos específicos, podem se destacar:  
-· Orgazinar o quando de insumo deve ser produzido para fazer o produto final. 
-· Evitar excessos ou falta de insumos em períodos sazonais que há aumento de produção.
+• Organizar o quanto de insumo deve ser produzido para fazer o produto final. 
+• Organizar ordem de produção.
+• Evitar excessos ou falta de insumos.
 
  
 > **Links Úteis**:
