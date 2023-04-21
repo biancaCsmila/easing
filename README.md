@@ -14,7 +14,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Maria Ester de Jesus Guimarães
 * Reinaldo Barbosa Lima
 * Marina Fernande de Souza Hack
-* Gustavo Heleno Almeida Rodrigues
+
 
 ## Orientador
 
