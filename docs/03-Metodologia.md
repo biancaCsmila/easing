@@ -3,75 +3,57 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla as ferramentas utilizadas pelo grupo para a execução do projeto.
 
-## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+## Relação de Ambientes de Trabalho
 
-O projeto segue a seguinte convenção para o nome de branches:
+Para o desenvolvimento do projeto estamos usando diferentes plataformas, a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir:
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
-
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
-
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
-
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+| Ambiente | Plataforma | Link de Acesso |
+| Repositório de código fonte| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-pcp |
+| Documentos do projeto | Google Drive | https://docs.google.com/document/d/1UV3LWvjjuOrYaonHWFqyTTxGvGQ0QJWDOwIZMUXxMjs/edit?usp=share_link |
+| Projeto de Interface e Wireframes | FlowMapp | https://app.flowmapp.com/share/projects/cc6a2033-72ce-461d-ad9f-5b66754c3868/sitemap/882e68ec-cba2-4ce0-801d-584f545b1631 |
+| Gerenciamento do Projeto | Trello | https://trello.com/b/bVM0ExiR |
 
 ## Gerenciamento de Projeto
 
+ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+
+
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira:
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+●Scrum Master:
+Júlia Roberta de Souza
+Maria Ester de Jesus Guimarães
+Reinaldo Barbosa Lima
+Marina Fernandes de Souza Hack
 
-### Processo
+●Product Owner:
+Júlia Roberta de Souza
+Maria Ester de Jesus Guimarães
+Reinaldo Barbosa Lima
+Marina Fernandes de Souza Hack
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+● Equipe de Desenvolvimento
+Júlia Roberta de Souza
+Maria Ester de Jesus Guimarães
+Reinaldo Barbosa Lima
+Marina Fernandes de Souza Hack
+
+● Equipe de Design
+Júlia Roberta de Souza
+Maria Ester de Jesus Guimarães
+Reinaldo Barbosa Lima
+Marina Fernandes de Souza Hack
+
+ Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado da seguinte maneira:
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A fazer: Nessa lista está representado o Sprint Backlog, ou seja, todas as tarefas que devemos fazer no decorrer do projeto. 
+Em Andamento: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+Feito: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está pronto.
 
-### Ferramentas
+O quadro do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através do endereço web https://trello.com/b/bVM0ExiR e é apresentado, no estado atual, na figura a seguir.
 
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
