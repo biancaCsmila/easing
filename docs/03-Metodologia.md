@@ -1,4 +1,3 @@
-
 # Metodologia
 
 
@@ -60,7 +59,7 @@ A equipe está organizada da seguinte maneira:
 - Marina Fernandes de Souza Hack
 
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado da seguinte maneira:
+  Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado da seguinte maneira:
  
 
 - A fazer: Nessa lista está representado o Sprint Backlog, ou seja, todas as tarefas que devemos fazer no decorrer do projeto. 
@@ -68,5 +67,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - Feito: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está pronto.
 
 
-O quadro do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através do endereço web https://trello.com/b/bVM0ExiR e é apresentado, no estado atual, na figura a seguir.
+  O quadro do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através do endereço web https://trello.com/b/bVM0ExiR e é apresentado, no estado atual, na figura a seguir.
 
+
+![Trabalho faculdade](https://user-images.githubusercontent.com/128753891/233808351-7c80cf11-b3ff-4911-8ba5-69541fed5cba.jpg)
