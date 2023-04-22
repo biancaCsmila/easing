@@ -11,6 +11,7 @@ A metodologia contempla as ferramentas utilizadas pelo grupo para a execução d
 Para o desenvolvimento do projeto estamos usando diferentes plataformas, a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir:
 
 | Ambiente | Plataforma | Link de Acesso |
+| -------- | ---------- | -------------- |
 | Repositório de código fonte| GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-pcp |
 | Documentos do projeto | Google Drive | https://docs.google.com/document/d/1UV3LWvjjuOrYaonHWFqyTTxGvGQ0QJWDOwIZMUXxMjs/edit?usp=share_link |
 | Projeto de Interface e Wireframes | FlowMapp | https://app.flowmapp.com/share/projects/cc6a2033-72ce-461d-ad9f-5b66754c3868/sitemap/882e68ec-cba2-4ce0-801d-584f545b1631 |
