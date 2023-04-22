@@ -1,7 +1,7 @@
 
 # Projeto de Interface
 
-O projeto apresentando e basico e simples, para maior facilidade de acessibilidade
+ o objetivo da montagem da interface do projeto e a maior facilidade de acessibilidade e experiecnia ao usuario, identidade padronizada para visuação em desktops e dispositivos móveis. 
 
 ## User Flow
 
