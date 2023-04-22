@@ -3,11 +3,13 @@
 
  o objetivo da montagem da interface do projeto e a maior facilidade de acessibilidade e experiecnia ao usuario, identidade padronizada para visuação em desktops e dispositivos móveis. 
 
-## User Flow
+## Fluxo do Usuário
 
-![Exemplo de UserFlow](img/userflow.jpg)
+O diagrama abaxo mostra o fluxo de telas para o usuario, para maior facilidade e compreensão do usuario.
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
+https://app.flowmapp.com/share/projects/cc6a2033-72ce-461d-ad9f-5b66754c3868/sitemap/882e68ec-cba2-4ce0-801d-584f545b1631
+
+
 
 > **Links Úteis**:
 > - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
