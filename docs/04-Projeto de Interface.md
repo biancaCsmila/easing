@@ -16,9 +16,17 @@ https://app.flowmapp.com/share/projects/cc6a2033-72ce-461d-ad9f-5b66754c3868/sit
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são
+apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma
+estrutura comum que é apresentada na Figura X. Nesta estrutura, existem 3 grandes blocos,
+descritos a seguir. São eles:
+● Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e
+navegação principal do site (menu da aplicação);
+● Conteúdo - apresenta o conteúdo da tela em questão;
+● Barra lateral - apresenta os elementos de navegação secundária, geralmente
+associados aos elementos do bloco de conteúdo.
+
  
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
