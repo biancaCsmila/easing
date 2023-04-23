@@ -11,7 +11,8 @@ O diagrama mostra o fluxo de telas, para maior facilidade e compreensão do usua
 
 https://app.flowmapp.com/share/projects/cc6a2033-72ce-461d-ad9f-5b66754c3868/sitemap/882e68ec-cba2-4ce0-801d-584f545b1631
 
-![imagem](https://user-images.githubusercontent.com/PLANEJAMENTO%20E%20CONTROLE%20DE%20PRODUÇÃO.png)
+![PLANEJAMENTO E CONTROLE DE PRODUÇÃO](https://user-images.githubusercontent.com/128753930/233852752-9408f9e4-6a68-45bc-accc-ccd67378a0a5.png)
+
 
 ## Wireframes
 
