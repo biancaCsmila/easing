@@ -11,8 +11,7 @@ O diagrama mostra o fluxo de telas, para maior facilidade e compreensão do usua
 
 https://app.flowmapp.com/share/projects/cc6a2033-72ce-461d-ad9f-5b66754c3868/sitemap/882e68ec-cba2-4ce0-801d-584f545b1631
 
-!diagrama https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t7-pcp/main/docs/img/PLANEJAMENTO%20E%20CONTROLE%20DE%20PRODU%C3%87%C3%83O.png
-
+![imagem](https://user-images.githubusercontent.com/PLANEJAMENTO%20E%20CONTROLE%20DE%20PRODUÇÃO.png)
 
 ## Wireframes
 
