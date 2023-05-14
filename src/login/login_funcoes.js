@@ -1,3 +1,3 @@
-$('.message a').click(function(){
-  $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
-});
+import myJson from '../json/usuarios.json' assert {type: 'json'};
+
+console.log(myJson.person);

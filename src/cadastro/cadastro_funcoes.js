@@ -1,9 +1,5 @@
-$('.message a').click(function(){
-  $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
-});
+const botao_cadastro = document.getElementById("botao_cadastro");
 
-const botao_cadastro = document.getElementById
-("botao_cadastro");
 function salvarDadosEmJson() {
   alert('asdasdasd')
   console.log(users);
