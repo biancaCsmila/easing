@@ -1,0 +1,18 @@
+[
+    {
+      "nome": "Aleander Rayson",
+      "email": "aleander@hotmail.com",
+      "cpf": "70073634558",
+      "telefone": "31987321514",
+      "senha": "123",
+      "data_nascimento": "22/04/2000"
+    },
+    {
+        "nome": "Aleander Rayson",
+        "email": "aleander@hotmail.com",
+        "cpf": "70073634558",
+        "telefone": "31987321514",
+        "senha": "123",
+        "data_nascimento": "22/04/2000"
+      }
+  ]
