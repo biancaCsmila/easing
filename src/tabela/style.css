@@ -1,0 +1,132 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f9e6f3;
+  color: #000000;
+  padding: 20px;
+}
+
+.logo img {
+  width: 200px;
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar li {
+  margin-left: 10px;
+}
+
+.navbar li a {
+  color: #040404;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.title {
+  margin-bottom: 20px;
+}
+
+.btn-new {
+  background-color: #ab6d4c;
+  color: #333;
+  border: none;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-new:hover {
+  background-color: #eec0da;
+}
+
+.divTable {
+  margin-top: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ab6d4c;
+  padding: 8px;
+}
+
+th {
+  background-color: #f9e6f3;
+}
+
+.acao {
+  text-align: center;
+}
+
+.modal-container {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(245, 234, 240, 0.5);
+  z-index: 9999;
+}
+
+.modal {
+  background-color: #fff;
+  width: 400px;
+  max-width: 90%;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.modal form {
+  display: flex;
+  flex-direction: column;
+}
+
+.modal label {
+  margin-top: 10px;
+}
+
+.modal input,
+.modal button {
+  margin-top: 5px;
+  padding: 8px;
+}
+
+.modal button {
+  background-color: #ab6d4c;
+  color: #000000;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.modal button:hover {
+  background-color: #eec0da;
+}
