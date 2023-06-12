@@ -18,7 +18,7 @@ function login() {
   }
 
   if (logar == true) {
-    window.location.replace("../../index.html");
+    window.location.replace("../tabela/tabela.html");
   } else {
     alert("Usuario nao encontrado verifique seu email ou senha.");
   }

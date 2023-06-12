@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family= família= Playfair+Display &família= Roboto:wght@100;400 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
+
+* {
+ margin: 10;
+ padding: 16;
+ box-sizing: border-box
+ text-decoration: none;
+}
+
+body {
+ font-size: 100%;
+ background:  #FFDCDE;
+}
+
+.cabeçalho {
+ display: flex;
+ flex-direction: row;
+ align-items: center;
+ justify-content: space-around;
+ padding: 24px;
+}
+
+.cabeçalho-imagem {
+ height: 72px;   
+}
+
+.cabeçalho-menu {
+ display: flex;
+ gap: 32px;    
+}
+
+.cabeçalho-menu-item {
+ font-family: 'Roboto', sans-serif;
+ color: #3F0D0D;
+ font-weight: 400;
+ font-size: 40;
+}
+
+.cabeçalho-menu-button {
+ background-color: #FFE9E9;
+ width: 80px;
+ height: 20px;
+ border: none;
+}
+
+.conteudo {
+    border-top: 0.4px solid 3F0D0;   
+   }
+  
+   .conteudo-principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space around;
+   }
+   
+   .conteudo-principal-escrito-titulo {
+    display: inline-block;
+    width: 816px;
+    height: 301px;
+    left: 24px;
+    top: 904px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 60px;
+   }
+
+   .foto-principal {
+    box-sizing: border-box;
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 400px;
+    top: 230px;
+   }
+   
+   .conteudo-principal-escrito-ingredientes {
+    font-family: 'Roboto', sem serifa;
+    font-weight: 400;
+    font-size: 20px;
+    color: 996344;
+    width: 50%;
+   }
+
+   .caixa {
+    position: static;
+    width: 1000px;
+    height: 90px;
+    left: 100px;
+    top: 800px; 
+    }
+
+    main {
+        display: block
+    }

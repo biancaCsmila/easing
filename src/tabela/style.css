@@ -17,6 +17,20 @@ body {
   width: 200px;
 }
 
+
+.cabeçalho-menu {
+  display: flex;
+  gap: 32px;    
+ }
+ 
+
+.cabeçalho-menu-item {
+  font-family: 'Roboto', sans-serif;
+  color: #3F0D0D;
+  font-weight: 400;
+  font-size: 40;
+ }
+
 .navbar ul {
   list-style-type: none;
   margin: 0;

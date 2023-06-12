@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+
+    background: #e2c7e0;
+}
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px;
+    width: 100%;
+    height: 160px;    
+    border: 2px solid #000000;
+    font-family: 'Roboto';
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+
+}
+
+.btn-usuário{
+    box-sizing: border-box;
+    width: 170px;
+    height: 76px;
+    background: #D41FC21A;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    font-family: 'Roboto';
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+}
+
+
