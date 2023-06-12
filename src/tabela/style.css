@@ -40,11 +40,18 @@ body {
   padding: 20px;
 }
 
+.line {
+  text-align: center;
+}
+
+
 .title {
   margin-bottom: 20px;
+  display:inline-block;
 }
 
 .btn-new {
+  margin-left: 60%;
   background-color: #ab6d4c;
   color: #333;
   border: none;

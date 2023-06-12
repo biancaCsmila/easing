@@ -64,9 +64,7 @@ btnSalvar.onclick = e => {
   if (sNome.value === '' || sDescrição.value === '' || sValor.value === '' || sData.value === '') {
     return;
   }
-
-  e.preventDefault();
-
+  
   const novoEvento = {
     nome: sNome.value,
     descrição: sDescrição.value,
@@ -74,14 +72,14 @@ btnSalvar.onclick = e => {
     data: sData.value
   };
 
-  if (id !== undefined) {
+  if(id != undefined) {
     eventos[id] = novoEvento;
   } else {
     eventos.push(novoEvento);
   }
 
   setEventosLocalStorage();
-
+  
   modal.style.display = 'none';
   loadEventos();
   id = undefined;
@@ -99,6 +97,7 @@ function formatDate(date) {
   const options = { day: '2-digit', month: '2-digit', year: 'numeric' };
   return new Date(date).toLocaleDateString('pt-BR', options);
 }
+
 
 function getEventosLocalStorage() {
   return JSON.parse(localStorage.getItem('eventos')) || [];
